@@ -30,13 +30,6 @@ Desenvolvido como parte do desafio técnico da empresa **Postaqui Logística**, 
 
 ---
 
-## 📷 Preview
-
-![Step1](./public/preview-step1.png)
-![Step3](./public/preview-step3.png)
-
----
-
 ## 📦 Funcionalidades
 
 ### 📝 Step 1 - Remetente
